@@ -1,0 +1,50 @@
+<templateSet group="MyLiveTemplate">
+  <template name="reqmap" value="@RequestMapping(value = &quot;$L1$&quot;, method = RequestMethod.$L2$)&#10;public $L3$ foo() {&#10;&#10;    return null;&#10;}" description="@RequestMapping(value = &quot;&quot;, method = )" toReformat="false" toShortenFQNames="true">
+    <variable name="L1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="L2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="L3" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="runwith" value="import org.junit.runner.RunWith;&#10;import org.springframework.boot.test.context.SpringBootTest;&#10;import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;&#10;&#10;&#10;@RunWith(SpringJUnit4ClassRunner.class)&#10;@SpringBootTest(classes = $L1$Application.class)" description="@RunWith(SpringJUnit4ClassRunner.class)" toReformat="false" toShortenFQNames="true">
+    <variable name="L1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="log" value="private static final Logger LOGGER = LoggerFactory.getLogger(.class);" description="private Logger logger = LoggerFactory.getLogger" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="seri" value="private static final long serialVersionUID = 1L;" description="private static final long serialVersionUID = 1L;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="psfi" value="public static final int $L1$ = $L2$;" description="public static final int" toReformat="false" toShortenFQNames="true">
+    <variable name="L1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="L2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="psfs" value="public static final String $L1$ = $L2$;" description="public static final String" toReformat="false" toShortenFQNames="true">
+    <variable name="L1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="L2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="format" value="DateTimeFormatter dateTimeFormatter = DateTimeFormat.forPattern(&quot;yyyy-MM-dd HH:mm&quot;);&#10;DateTime dateTime = DateTime.parse(&quot;2017-12-01 10:30&quot;, dateTimeFormatter);" description="DateTimeFormat.forPattern(&quot;yyyy-MM-dd HH:mm&quot;)" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="aw" value="@Autowired&#10;private " description="@Autowired private" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

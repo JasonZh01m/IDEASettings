@@ -1,0 +1,14 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <removed_mapping ext="md" approved="true" type="Markdown" />
+      <removed_mapping ext="markdown" approved="true" type="Markdown" />
+      <mapping ext="markdown" type="Native" />
+      <mapping ext="md" type="Native" />
+      <mapping pattern="changelog-20190613" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
+      <removed_mapping ext="markdown" approved="true" type="Markdown" />
+      <removed_mapping ext="md" approved="true" type="Markdown" />
+    </extensionMap>
+  </component>
+</application>
