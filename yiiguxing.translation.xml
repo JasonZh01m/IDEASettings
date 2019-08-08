@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ensure" />
+      <item value="decorate" />
+      <item value="Scheduled" />
+      <item value="Thread" />
+      <item value="penalty" />
+      <item value="Time" />
       <item value="schema" />
       <item value="mandatory" />
       <item value="correlation" />
@@ -28,7 +34,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="8" />
+        <entry key="CHINESE" value="6" />
+        <entry key="ENGLISH" value="14" />
       </map>
     </option>
   </component>
