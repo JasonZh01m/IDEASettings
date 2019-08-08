@@ -1,6 +1,26 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="can" />
+      <item value="schedule" />
+      <item value="commands" />
+      <item value="Pool" />
+      <item value="Thread" />
+      <item value="Scheduled" />
+      <item value="even" />
+      <item value="idle" />
+      <item value="periodically" />
+      <item value="fixed" />
+      <item value="equivalent" />
+      <item value="subsequent" />
+      <item value="Delegated" />
+      <item value="Delegated Scheduled Executor Service" />
+      <item value="typically" />
+      <item value="Creates a thread pool that creates new threads as needed, but will reuse previously constructed threads when they are available.  These pools will typically improve the performance of programs that execute many short-lived asynchronous tasks. Calls to {@code execute} will reuse previously constructed threads if available. If no existing thread is available, a new thread will be created and added to the pool. Threads that have not been used for sixty seconds are terminated and removed from the cache. Thus, a pool that remains idle for long enough will not consume any resources. Note that pools with similar properties but different details (for example, timeout parameters" />
+      <item value="properties but different details (for example, timeout parameters)" />
+      <item value="RejectedExecutionHandler handler" />
+      <item value="Rejected Execution Handler" />
+      <item value="Rejected" />
       <item value="Blocking Queue" />
       <item value="Blocking" />
       <item value="unit" />
@@ -10,8 +30,6 @@
       <item value="Access" />
       <item value="Unit" />
       <item value="Time" />
-      <item value="Thread" />
-      <item value="Rejected" />
       <item value="Synchronous" />
       <item value="Fixed" />
       <item value="Inserts the specified element into this queue if it is possible to do  so immediately without violating capacity restrictions" />
@@ -27,48 +45,32 @@
       <item value="Randomized" />
       <item value="ensure" />
       <item value="decorate" />
-      <item value="Scheduled" />
       <item value="penalty" />
       <item value="schema" />
       <item value="mandatory" />
       <item value="correlation" />
       <item value="corelation" />
       <item value="客户中心" />
-      <item value="全面" />
-      <item value="知道" />
-      <item value="感知" />
-      <item value="consensus " />
-      <item value="trial" />
-      <item value="体验" />
-      <item value="体验账号" />
-      <item value="逻辑" />
-      <item value="background" />
-      <item value="Mutex" />
-      <item value="Criteria" />
-      <item value="boardcasting" />
-      <item value="正在直播" />
-      <item value="邀请人" />
-      <item value="invitor" />
-      <item value="invite" />
-      <item value="apple" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="46" />
-        <entry key="ENGLISH" value="53" />
+        <entry key="CHINESE" value="80" />
+        <entry key="ENGLISH" value="87" />
       </map>
     </option>
   </component>
   <component name="Settings">
+    <option name="autoSelectionMode" value="EXCLUSIVE" />
     <option name="ignoreRegExp" value="" />
     <option name="overrideFont" value="true" />
-    <option name="phoneticFontFamily" value="Microsoft YaHei" />
-    <option name="primaryFontFamily" value="Microsoft YaHei UI" />
+    <option name="phoneticFontFamily" value="Segoe UI Emoji" />
+    <option name="primaryFontFamily" value="Consolas" />
     <option name="translator" value="ai.youdao" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="724f15caec49d314" />
         <option name="appKeyConfigured" value="true" />
+        <option name="primaryLanguage" value="ENGLISH" />
       </youdao-translate>
     </option>
   </component>
