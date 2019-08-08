@@ -1,6 +1,22 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Blocking Queue" />
+      <item value="Blocking" />
+      <item value="unit" />
+      <item value="System.get Security Manager" />
+      <item value="System" />
+      <item value="Access Controller" />
+      <item value="Access" />
+      <item value="Unit" />
+      <item value="Time" />
+      <item value="Thread" />
+      <item value="Rejected" />
+      <item value="Synchronous" />
+      <item value="Fixed" />
+      <item value="Inserts the specified element into this queue if it is possible to do  so immediately without violating capacity restrictions" />
+      <item value="restrictions" />
+      <item value="dispatcher" />
       <item value="upon" />
       <item value="Router" />
       <item value="Dispatcher" />
@@ -12,9 +28,7 @@
       <item value="ensure" />
       <item value="decorate" />
       <item value="Scheduled" />
-      <item value="Thread" />
       <item value="penalty" />
-      <item value="Time" />
       <item value="schema" />
       <item value="mandatory" />
       <item value="correlation" />
@@ -37,13 +51,11 @@
       <item value="invitor" />
       <item value="invite" />
       <item value="apple" />
-      <item value="ligature" />
-      <item value="ligatures" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="19" />
-        <entry key="ENGLISH" value="26" />
+        <entry key="CHINESE" value="46" />
+        <entry key="ENGLISH" value="53" />
       </map>
     </option>
   </component>

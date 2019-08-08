@@ -1,8 +1,10 @@
 <keymap version="1" name="Default copy" parent="$default">
   <action id="$ChooseTranslatorAction" />
-  <action id="$EditorTranslateAction" />
+  <action id="$EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="ctrl alt f11" />
+  </action>
   <action id="$ExclusiveTranslateAction">
-    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+    <keyboard-shortcut first-keystroke="alt f11" />
   </action>
   <action id="$LRU">
     <keyboard-shortcut first-keystroke="alt r" />
@@ -12,7 +14,7 @@
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="$ShowTranslationDialogAction">
-    <keyboard-shortcut first-keystroke="ctrl alt f11" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt f11" />
   </action>
   <action id="$TranslateAndReplaceAction" />
   <action id="ActivateDatabaseToolWindow">
@@ -36,8 +38,11 @@
   <action id="DebugClass">
     <keyboard-shortcut first-keystroke="shift ctrl f9" />
   </action>
+  <action id="Editor EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="ctrl alt f11" />
+  </action>
   <action id="Editor ExclusiveTranslateAction">
-    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+    <keyboard-shortcut first-keystroke="alt f11" />
   </action>
   <action id="Editor LRU">
     <keyboard-shortcut first-keystroke="alt r" />
@@ -46,7 +51,7 @@
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="Editor ShowTranslationDialogAction">
-    <keyboard-shortcut first-keystroke="ctrl alt f11" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt f11" />
   </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="shift ctrl y" />
@@ -104,6 +109,7 @@
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
+  <action id="RunJsbtTask" />
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="alt f2" />
   </action>
