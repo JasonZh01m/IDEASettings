@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="判断" />
       <item value="MANDATORY" />
       <item value="spring" />
       <item value="Async" />
@@ -50,12 +51,11 @@
       <item value="address" />
       <item value="Address" />
       <item value="Server" />
-      <item value="Randomized" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="80" />
-        <entry key="ENGLISH" value="108" />
+        <entry key="ENGLISH" value="109" />
       </map>
     </option>
   </component>
