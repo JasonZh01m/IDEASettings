@@ -422,6 +422,10 @@
           <option name="url" value="https://github.com/JasonZh01m/MSH.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:spring-projects/spring-data-ldap.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Projects\IDEAProjects\Demo" />
