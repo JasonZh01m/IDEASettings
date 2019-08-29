@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="冒号" />
       <item value="判断" />
       <item value="MANDATORY" />
       <item value="spring" />
@@ -50,12 +51,11 @@
       <item value="fire" />
       <item value="address" />
       <item value="Address" />
-      <item value="Server" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="80" />
-        <entry key="ENGLISH" value="109" />
+        <entry key="ENGLISH" value="110" />
       </map>
     </option>
   </component>
