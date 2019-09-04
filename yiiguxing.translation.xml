@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dispose" />
+      <item value="Legacy" />
       <item value="compatibility" />
       <item value="arbiter" />
       <item value="Fixed" />
@@ -49,13 +51,11 @@
       <item value="Inserts the specified element into this queue if it is possible to do  so immediately without violating capacity restrictions" />
       <item value="restrictions" />
       <item value="dispatcher" />
-      <item value="upon" />
-      <item value="Router" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="80" />
-        <entry key="ENGLISH" value="121" />
+        <entry key="ENGLISH" value="123" />
       </map>
     </option>
   </component>
