@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="archaius" />
       <item value="Rolling" />
       <item value="dispose" />
       <item value="Legacy" />
@@ -50,12 +51,11 @@
       <item value="Time" />
       <item value="Synchronous" />
       <item value="Inserts the specified element into this queue if it is possible to do  so immediately without violating capacity restrictions" />
-      <item value="restrictions" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="80" />
-        <entry key="ENGLISH" value="125" />
+        <entry key="ENGLISH" value="129" />
       </map>
     </option>
   </component>
