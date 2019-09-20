@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fat" />
       <item value="Deduce" />
       <item value="Synchronous" />
       <item value="Contract" />
@@ -50,12 +51,11 @@
       <item value="unit" />
       <item value="System.get Security Manager" />
       <item value="System" />
-      <item value="Access Controller" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="80" />
-        <entry key="ENGLISH" value="139" />
+        <entry key="ENGLISH" value="140" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
