@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="actuator" />
       <item value="so needs to be guarded with the copy constructor" />
       <item value="mutable" />
       <item value="Synchronous" />
@@ -50,12 +51,11 @@
       <item value="equivalent" />
       <item value="subsequent" />
       <item value="Delegated" />
-      <item value="Delegated Scheduled Executor Service" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="80" />
-        <entry key="ENGLISH" value="151" />
+        <entry key="ENGLISH" value="152" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
