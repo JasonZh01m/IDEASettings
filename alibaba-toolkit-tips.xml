@@ -1,7 +1,9 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectName="daizhang" firstStartUp="false" />
     <entry projectName="spring-cloud-all-test" firstStartUp="false" />
+    <entry projectName="sso" firstStartUp="false" />
     <entry projectName="ucenter-filter" firstStartUp="false" />
     <entry projectName="user-center" firstStartUp="false" />
   </component>
