@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="IDC" />
+      <item value="Legacy" />
       <item value="Dummy" />
       <item value="dummy" />
       <item value="actuator" />
@@ -24,7 +26,6 @@
       <item value="archaius" />
       <item value="Rolling" />
       <item value="dispose" />
-      <item value="Legacy" />
       <item value="compatibility" />
       <item value="arbiter" />
       <item value="Fixed" />
@@ -50,12 +51,11 @@
       <item value="idle" />
       <item value="periodically" />
       <item value="fixed" />
-      <item value="equivalent" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="80" />
-        <entry key="ENGLISH" value="155" />
+        <entry key="ENGLISH" value="158" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
