@@ -15,6 +15,7 @@
     <entry projectName="spring-cloud-hystrix-client-demo" firstStartUp="false" />
     <entry projectName="sso" firstStartUp="false" />
     <entry projectName="sso-filter" firstStartUp="false" />
+    <entry projectName="support-compos" firstStartUp="false" />
     <entry projectName="ucenter-filter" firstStartUp="false" />
     <entry projectName="user-center" firstStartUp="false" />
     <entry projectName="zuul-server" firstStartUp="false" />
