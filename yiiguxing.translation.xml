@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="composition" />
+      <item value="composite" />
+      <item value="integration" />
+      <item value="协作" />
       <item value="fixation" />
       <item value="apple" />
       <item value="acto" />
@@ -47,15 +51,11 @@
       <item value="判断" />
       <item value="MANDATORY" />
       <item value="spring" />
-      <item value="patterns" />
-      <item value="pattern" />
-      <item value="设计模式" />
-      <item value="async" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="82" />
-        <entry key="ENGLISH" value="186" />
+        <entry key="ENGLISH" value="187" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
