@@ -11,6 +11,8 @@
     <entry projectName="pangolin-manage" firstStartUp="false" />
     <entry projectName="private-docs" firstStartUp="false" />
     <entry projectName="public-docs" firstStartUp="false" />
+    <entry projectName="security-demo" firstStartUp="false" />
+    <entry projectName="social" firstStartUp="false" />
     <entry projectName="spring-cloud-all-test" firstStartUp="false" />
     <entry projectName="spring-cloud-hystrix-client-demo" firstStartUp="false" />
     <entry projectName="sso" firstStartUp="false" />
