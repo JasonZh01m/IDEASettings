@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fixation" />
+      <item value="apple" />
+      <item value="acto" />
+      <item value="facto" />
+      <item value="de-facto" />
       <item value="instantiate" />
       <item value="equivalent" />
       <item value="in favor of" />
@@ -46,16 +51,11 @@
       <item value="pattern" />
       <item value="设计模式" />
       <item value="async" />
-      <item value="mesh" />
-      <item value="schedule" />
-      <item value="can" />
-      <item value="commands" />
-      <item value="Pool" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="82" />
-        <entry key="ENGLISH" value="184" />
+        <entry key="ENGLISH" value="186" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
