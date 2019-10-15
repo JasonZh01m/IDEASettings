@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="credentials" />
+      <item value="principal" />
       <item value="strips" />
       <item value="Principal" />
       <item value="Credentials" />
@@ -49,13 +51,11 @@
       <item value="combine" />
       <item value="archaius" />
       <item value="Rolling" />
-      <item value="dispose" />
-      <item value="compatibility" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="82" />
-        <entry key="ENGLISH" value="200" />
+        <entry key="ENGLISH" value="208" />
         <entry key="FRENCH" value="3" />
       </map>
     </option>
