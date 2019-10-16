@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="magicbox" />
+      <item value="magic box" />
+      <item value="magix box" />
+      <item value="百宝箱" />
+      <item value="chest" />
       <item value="full touch" />
       <item value="touch compos" />
       <item value="Deferred" />
@@ -46,16 +51,11 @@
       <item value="Legacy" />
       <item value="Dummy" />
       <item value="dummy" />
-      <item value="actuator" />
-      <item value="so needs to be guarded with the copy constructor" />
-      <item value="Synchronous" />
-      <item value="relevant" />
-      <item value="Strangulation " />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="85" />
-        <entry key="ENGLISH" value="240" />
+        <entry key="ENGLISH" value="246" />
         <entry key="FRENCH" value="4" />
       </map>
     </option>
