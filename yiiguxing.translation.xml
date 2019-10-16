@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Deferred" />
+      <item value="Fixation" />
+      <item value="return immediately as subclass has indicated that it hasn't completed" />
+      <item value="mutable" />
+      <item value="additional" />
+      <item value="evaluation" />
+      <item value="support closer evaluation of it" />
+      <item value="guarantee" />
+      <item value="populated" />
+      <item value="Provider" />
+      <item value="specific" />
       <item value="Assignable" />
       <item value="is" />
       <item value="credentials" />
@@ -35,28 +46,17 @@
       <item value="dummy" />
       <item value="actuator" />
       <item value="so needs to be guarded with the copy constructor" />
-      <item value="mutable" />
       <item value="Synchronous" />
       <item value="relevant" />
       <item value="Strangulation " />
       <item value="endpoint" />
       <item value="endpoints" />
-      <item value="jumbled" />
-      <item value="semantics" />
-      <item value="fine-grained" />
-      <item value="stripped" />
-      <item value="hierarchically" />
-      <item value="fat" />
-      <item value="Deduce" />
-      <item value="Contract" />
-      <item value="coyote" />
-      <item value="combine" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="82" />
-        <entry key="ENGLISH" value="212" />
-        <entry key="FRENCH" value="3" />
+        <entry key="CHINESE" value="85" />
+        <entry key="ENGLISH" value="239" />
+        <entry key="FRENCH" value="4" />
       </map>
     </option>
   </component>
