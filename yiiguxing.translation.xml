@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="comply" />
+      <item value="correctly" />
       <item value="childen" />
       <item value="结构化" />
       <item value="Cloud pulse" />
@@ -49,13 +51,11 @@
       <item value="equivalent" />
       <item value="in favor of" />
       <item value="potentially" />
-      <item value="essentially" />
-      <item value="rotation" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="85" />
-        <entry key="ENGLISH" value="251" />
+        <entry key="ENGLISH" value="255" />
         <entry key="FRENCH" value="4" />
       </map>
     </option>
