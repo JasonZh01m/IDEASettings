@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="childen" />
+      <item value="结构化" />
       <item value="Cloud pulse" />
       <item value="spec" />
       <item value="magicbox" />
@@ -49,13 +51,11 @@
       <item value="potentially" />
       <item value="essentially" />
       <item value="rotation" />
-      <item value="IDC" />
-      <item value="Legacy" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="85" />
-        <entry key="ENGLISH" value="248" />
+        <entry key="ENGLISH" value="251" />
         <entry key="FRENCH" value="4" />
       </map>
     </option>
