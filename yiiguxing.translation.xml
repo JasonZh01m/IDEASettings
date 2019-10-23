@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="intergration" />
+      <item value="ingergration" />
+      <item value="interg" />
       <item value="脉搏" />
       <item value="comply" />
       <item value="correctly" />
@@ -48,14 +51,11 @@
       <item value="apple" />
       <item value="facto" />
       <item value="de-facto" />
-      <item value="instantiate" />
-      <item value="equivalent" />
-      <item value="in favor of" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="85" />
-        <entry key="ENGLISH" value="256" />
+        <entry key="ENGLISH" value="264" />
         <entry key="FRENCH" value="4" />
       </map>
     </option>
