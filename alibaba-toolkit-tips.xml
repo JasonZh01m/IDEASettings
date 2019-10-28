@@ -14,6 +14,7 @@
     <entry projectName="imooc-security" firstStartUp="false" />
     <entry projectName="imooc-security-study" firstStartUp="false" />
     <entry projectName="kefu" firstStartUp="false" />
+    <entry projectName="login-gateway" firstStartUp="false" />
     <entry projectName="magicbox" firstStartUp="false" />
     <entry projectName="microservice" firstStartUp="false" />
     <entry projectName="mybatis-generator-gui" firstStartUp="false" />
