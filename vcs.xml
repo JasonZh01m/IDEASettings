@@ -474,6 +474,10 @@
           <option name="url" value="git@gitlab.yzf.net:architecture-group/login-gateway.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.yzf.net:architecture-group/sso.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Projects\IDEAProjects\YZF" />
