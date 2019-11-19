@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="declarative" />
       <item value="anonymous" />
       <item value="匿名" />
       <item value="Secret" />
@@ -50,12 +51,11 @@
       <item value="acto" />
       <item value="compo" />
       <item value="形式" />
-      <item value="integration" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="85" />
-        <entry key="ENGLISH" value="272" />
+        <entry key="ENGLISH" value="273" />
         <entry key="FRENCH" value="4" />
       </map>
     </option>
