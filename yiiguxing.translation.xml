@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="架构师" />
       <item value="Precise" />
       <item value="declarative" />
       <item value="anonymous" />
@@ -50,12 +51,11 @@
       <item value="composite" />
       <item value="composition" />
       <item value="acto" />
-      <item value="compo" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="85" />
-        <entry key="ENGLISH" value="275" />
+        <entry key="ENGLISH" value="276" />
         <entry key="FRENCH" value="4" />
       </map>
     </option>
