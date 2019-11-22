@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="global" />
+      <item value="locations" />
       <item value="frames" />
       <item value="specified" />
       <item value="架构师" />
@@ -49,13 +51,11 @@
       <item value="permit" />
       <item value="authentification" />
       <item value="authentification info" />
-      <item value="compos" />
-      <item value="composite" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="85" />
-        <entry key="ENGLISH" value="279" />
+        <entry key="ENGLISH" value="283" />
         <entry key="FRENCH" value="4" />
       </map>
     </option>
