@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="introspect" />
       <item value="global" />
       <item value="locations" />
       <item value="frames" />
@@ -50,12 +51,11 @@
       <item value="Credentials" />
       <item value="permit" />
       <item value="authentification" />
-      <item value="authentification info" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="85" />
-        <entry key="ENGLISH" value="283" />
+        <entry key="ENGLISH" value="284" />
         <entry key="FRENCH" value="4" />
       </map>
     </option>
