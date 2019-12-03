@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="eggache" />
+      <item value="ache" />
+      <item value="疼" />
+      <item value="eche" />
+      <item value="egg" />
+      <item value="eggeche" />
       <item value="introspect" />
       <item value="global" />
       <item value="locations" />
@@ -45,17 +51,11 @@
       <item value="Assignable" />
       <item value="is" />
       <item value="credentials" />
-      <item value="principal" />
-      <item value="strips" />
-      <item value="Principal" />
-      <item value="Credentials" />
-      <item value="permit" />
-      <item value="authentification" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="85" />
-        <entry key="ENGLISH" value="284" />
+        <entry key="ENGLISH" value="285" />
         <entry key="FRENCH" value="4" />
       </map>
     </option>
