@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="越南" />
       <item value="eggache" />
       <item value="ache" />
       <item value="疼" />
@@ -50,12 +51,11 @@
       <item value="specific" />
       <item value="Assignable" />
       <item value="is" />
-      <item value="credentials" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="85" />
-        <entry key="ENGLISH" value="285" />
+        <entry key="ENGLISH" value="286" />
         <entry key="FRENCH" value="4" />
       </map>
     </option>
