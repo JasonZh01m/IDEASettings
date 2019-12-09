@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="加密" />
+      <item value="cipher" />
+      <item value="明文" />
       <item value="越南" />
       <item value="eggache" />
       <item value="ache" />
@@ -48,14 +51,11 @@
       <item value="guarantee" />
       <item value="populated" />
       <item value="Provider" />
-      <item value="specific" />
-      <item value="Assignable" />
-      <item value="is" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="85" />
-        <entry key="ENGLISH" value="286" />
+        <entry key="ENGLISH" value="290" />
         <entry key="FRENCH" value="4" />
       </map>
     </option>
