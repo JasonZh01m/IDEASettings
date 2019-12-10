@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="username" />
+      <item value="rabbitmq" />
+      <item value="profiles" />
+      <item value="apple" />
+      <item value="address" />
       <item value="加密" />
       <item value="cipher" />
       <item value="明文" />
@@ -46,16 +51,11 @@
       <item value="return immediately as subclass has indicated that it hasn't completed" />
       <item value="mutable" />
       <item value="additional" />
-      <item value="evaluation" />
-      <item value="support closer evaluation of it" />
-      <item value="guarantee" />
-      <item value="populated" />
-      <item value="Provider" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="85" />
-        <entry key="ENGLISH" value="290" />
+        <entry key="ENGLISH" value="301" />
         <entry key="FRENCH" value="4" />
       </map>
     </option>
