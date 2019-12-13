@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="VERIFIED" />
+      <item value="BINDED" />
       <item value="bind" />
       <item value="username" />
       <item value="rabbitmq" />
@@ -49,13 +51,11 @@
       <item value="touch compos" />
       <item value="Deferred" />
       <item value="Fixation" />
-      <item value="return immediately as subclass has indicated that it hasn't completed" />
-      <item value="mutable" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="85" />
-        <entry key="ENGLISH" value="303" />
+        <entry key="ENGLISH" value="305" />
         <entry key="FRENCH" value="4" />
       </map>
     </option>
