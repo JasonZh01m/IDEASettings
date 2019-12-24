@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="asynchronous" />
+      <item value="异步" />
       <item value="coincide" />
       <item value="符合" />
       <item value="confirm" />
@@ -49,13 +51,11 @@
       <item value="ingergration" />
       <item value="interg" />
       <item value="脉搏" />
-      <item value="comply" />
-      <item value="correctly" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="86" />
-        <entry key="ENGLISH" value="316" />
+        <entry key="ENGLISH" value="318" />
         <entry key="FRENCH" value="4" />
       </map>
     </option>
