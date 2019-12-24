@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="coincide" />
+      <item value="符合" />
       <item value="confirm" />
       <item value="manually" />
       <item value="manual" />
@@ -49,13 +51,11 @@
       <item value="脉搏" />
       <item value="comply" />
       <item value="correctly" />
-      <item value="childen" />
-      <item value="结构化" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="85" />
-        <entry key="ENGLISH" value="315" />
+        <entry key="CHINESE" value="86" />
+        <entry key="ENGLISH" value="316" />
         <entry key="FRENCH" value="4" />
       </map>
     </option>
