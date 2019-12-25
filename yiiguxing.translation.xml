@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="desensitization" />
+      <item value="desensitize" />
+      <item value="脱敏" />
+      <item value="desensitive" />
       <item value="asynchronous" />
       <item value="异步" />
       <item value="coincide" />
@@ -47,15 +51,11 @@
       <item value="Secret" />
       <item value="有时限的" />
       <item value="custom" />
-      <item value="intergration" />
-      <item value="ingergration" />
-      <item value="interg" />
-      <item value="脉搏" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="86" />
-        <entry key="ENGLISH" value="318" />
+        <entry key="CHINESE" value="87" />
+        <entry key="ENGLISH" value="320" />
         <entry key="FRENCH" value="4" />
       </map>
     </option>
