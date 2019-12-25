@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="evacuation" />
       <item value="desensitization" />
       <item value="desensitize" />
       <item value="脱敏" />
@@ -50,12 +51,11 @@
       <item value="匿名" />
       <item value="Secret" />
       <item value="有时限的" />
-      <item value="custom" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="87" />
-        <entry key="ENGLISH" value="320" />
+        <entry key="ENGLISH" value="321" />
         <entry key="FRENCH" value="4" />
       </map>
     </option>
@@ -66,7 +66,6 @@
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Segoe UI" />
     <option name="primaryFontFamily" value="YaHei Consolas Hybrid" />
-    <option name="translator" value="ai.youdao" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="724f15caec49d314" />
