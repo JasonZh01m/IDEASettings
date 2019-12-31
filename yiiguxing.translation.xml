@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="verified" />
+      <item value="present" />
       <item value="性能" />
       <item value="evaluate" />
       <item value="Tokens" />
@@ -49,13 +51,11 @@
       <item value="specified" />
       <item value="架构师" />
       <item value="Precise" />
-      <item value="declarative" />
-      <item value="anonymous" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="91" />
-        <entry key="ENGLISH" value="324" />
+        <entry key="CHINESE" value="92" />
+        <entry key="ENGLISH" value="326" />
         <entry key="FRENCH" value="4" />
       </map>
     </option>
@@ -66,6 +66,7 @@
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Segoe UI" />
     <option name="primaryFontFamily" value="YaHei Consolas Hybrid" />
+    <option name="translator" value="ai.youdao" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="724f15caec49d314" />
