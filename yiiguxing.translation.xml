@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sink" />
+      <item value="binder" />
+      <item value="bindings" />
+      <item value="记录员" />
       <item value="verified" />
       <item value="present" />
       <item value="性能" />
@@ -47,15 +51,11 @@
       <item value="introspect" />
       <item value="global" />
       <item value="locations" />
-      <item value="frames" />
-      <item value="specified" />
-      <item value="架构师" />
-      <item value="Precise" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="92" />
-        <entry key="ENGLISH" value="326" />
+        <entry key="ENGLISH" value="333" />
         <entry key="FRENCH" value="4" />
       </map>
     </option>
