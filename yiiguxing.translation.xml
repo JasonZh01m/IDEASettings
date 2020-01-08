@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Mutable" />
       <item value="Sink" />
       <item value="binder" />
       <item value="bindings" />
@@ -50,12 +51,11 @@
       <item value="eggeche" />
       <item value="introspect" />
       <item value="global" />
-      <item value="locations" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="92" />
-        <entry key="ENGLISH" value="333" />
+        <entry key="ENGLISH" value="335" />
         <entry key="FRENCH" value="4" />
       </map>
     </option>
