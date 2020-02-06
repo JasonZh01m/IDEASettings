@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="秘钥" />
+      <item value="DEV_" />
+      <item value="parser" />
+      <item value="praser" />
       <item value="Mutable" />
       <item value="Sink" />
       <item value="binder" />
@@ -47,15 +51,11 @@
       <item value="ache" />
       <item value="疼" />
       <item value="eche" />
-      <item value="egg" />
-      <item value="eggeche" />
-      <item value="introspect" />
-      <item value="global" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="92" />
-        <entry key="ENGLISH" value="335" />
+        <entry key="CHINESE" value="93" />
+        <entry key="ENGLISH" value="338" />
         <entry key="FRENCH" value="4" />
       </map>
     </option>
